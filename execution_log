@@ -1,0 +1,19 @@
+[ 1783.503963] tasklets_test: Tasklet's saying "Hello" (loop: 0)            
+[ 1783.509993] tasklets_test: Tasklet's saying "Bye" (loop: 0)                  
+[ 1783.515838] tasklets_test: Tasklet's saying "Hello" (loop: 1)                
+[ 1783.521837] tasklets_test: Tasklet's saying "Bye" (loop: 1)                  
+[ 1783.527696] tasklets_test: Starting work: Work 1                             
+[ 1783.612601] tasklets_test: Starting work: Work2 (delayed)                    
+[ 1783.742593] tasklets_test: Finished work: Work 1                             
+[ 1783.932589] tasklets_test: Finished work: Work2 (delayed)                    
+[ 1784.503945] tasklets_test: Tasklet's saying "Hello" (loop: 0)                
+[ 1784.509953] tasklets_test: Tasklet's saying "Bye" (loop: 0)                  
+[ 1784.515790] tasklets_test: Tasklet's saying "Hello" (loop: 1)                
+[ 1784.521789] tasklets_test: Tasklet's saying "Bye" (loop: 1)                  
+[ 1784.527628] tasklets_test: Starting work: Work 1                             
+[ 1784.612590] tasklets_test: Starting work: Work2 (delayed)                    
+[ 1784.742587] tasklets_test: Finished work: Work 1                             
+[ 1784.932594] tasklets_test: Finished work: Work2 (delayed) 
+
+[ 1854.914734] tasklets_test: HR Timer module uninstalled                       
+[ 1854.920148] tasklets_test: Works have been canceled 
